@@ -10,7 +10,7 @@ import java.net.ContentHandler;
 import java.util.List;
 
 /**
- * @author Simpson Alfred
+ * @author Nehal Ansari
  */
 
 public interface QuestionRepository  extends JpaRepository<Question, Long> {
